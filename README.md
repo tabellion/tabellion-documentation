@@ -1,10 +1,10 @@
-<img src="favicon.ico" align="center">
+<p align="center"><img src="favicon.ico"></p>
 
 <h3 align="center">
   La Documentation officielle de Tabellion
 </h3>
 
-# Tabellion Documentation
+# Tabellion-documentation
 
 ## Definition
 
